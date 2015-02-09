@@ -1,0 +1,16 @@
+{
+  "name": "bookmark",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Vbisriram/sails-bookmark_app",
+  "authors": [
+    "Sriram B <sriramb@visualbi.com>"
+  ],
+  "description": "simple Bookmark maintanence application",
+  "keywords": [
+    "bookmark",
+    "sails",
+    "angular"
+  ],
+  "license": "MIT",
+  "private": true
+}
